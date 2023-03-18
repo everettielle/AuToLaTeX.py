@@ -1,4 +1,4 @@
-INV_MINUS_DEF = '\\newcommand{\\p}{\\phantom{-}}'
+INV_MINUS_DEF = '\\newcommand{\\p}{\\phantom{-}}' # Use phantom command to make a gap between positive integers and negative integers
 INV_MINUS = '\\p'
 VECTOR_SKELETON = '\\begin{{bmatrix}}\n{}\n\\end{{bmatrix}}'
 vector_in = ''
